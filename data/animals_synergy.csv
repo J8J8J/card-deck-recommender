@@ -1,0 +1,66 @@
+card1,card2,synergy
+Lion,Tiger,7
+Lion,Wolf,4
+Lion,Eagle,3
+Lion,Rabbit,-6
+Lion,Deer,-5
+Lion,Gorilla,-3
+Tiger,Wolf,3
+Tiger,Bear,-2
+Tiger,Fox,2
+Tiger,Rabbit,-6
+Tiger,Deer,-5
+Wolf,Fox,6
+Wolf,Bear,-3
+Wolf,Rabbit,-4
+Wolf,Deer,-4
+Bear,Eagle,2
+Bear,Fox,-2
+Bear,Bee,4
+Bear,Polar Bear,5
+Eagle,Hawk,7
+Eagle,Owl,5
+Eagle,Rabbit,-3
+Eagle,Snake,-2
+Hawk,Owl,4
+Hawk,Frog,-2
+Owl,Fox,2
+Owl,Rabbit,-2
+Fox,Rabbit,-3
+Fox,Deer,-1
+Rabbit,Deer,5
+Rabbit,Frog,2
+Rabbit,Bee,1
+Deer,Horse,4
+Deer,Elephant,2
+Horse,Elephant,5
+Horse,Rhino,3
+Elephant,Rhino,6
+Elephant,Gorilla,4
+Elephant,Bee,-2
+Rhino,Gorilla,3
+Gorilla,Chimp,8
+Gorilla,Snake,-2
+Chimp,Frog,2
+Chimp,Bee,2
+Crocodile,Snake,4
+Crocodile,Frog,-2
+Crocodile,Shark,3
+Crocodile,Turtle,2
+Snake,Frog,-3
+Snake,Bee,2
+Frog,Turtle,3
+Frog,Bee,4
+Shark,Dolphin,-4
+Shark,Octopus,5
+Shark,Penguin,-3
+Dolphin,Octopus,6
+Dolphin,Penguin,4
+Dolphin,Turtle,3
+Octopus,Turtle,4
+Penguin,Polar Bear,-5
+Penguin,Turtle,2
+Polar Bear,Shark,2
+Polar Bear,Dolphin,-3
+Polar Bear,Turtle,1
+Turtle,Bee,1

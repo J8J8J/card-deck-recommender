@@ -1,0 +1,92 @@
+card1,card2,value
+Wild Cat,Geronimo,3
+Wild Cat,Flight 9,1
+Wild Cat,Yellow Tourist,-1
+Wild Cat,Medicine Bottle,4
+Wild Cat,Spiky Ball,2
+Wild Cat,Glowing Crest,0
+Wild Cat,Calculus,-2
+Wild Cat,Mystery Novel,3
+Wild Cat,Grass Sword,5
+Wild Cat,Feline Friend No More,-8
+Wild Cat,Under The Water,4
+Wild Cat,Snake Sneak Attack,7
+Wild Cat,Undo It All,0
+Geronimo,Flight 9,8
+Geronimo,Yellow Tourist,5
+Geronimo,Medicine Bottle,0
+Geronimo,Spiky Ball,-2
+Geronimo,Glowing Crest,3
+Geronimo,Calculus,1
+Geronimo,Mystery Novel,-1
+Geronimo,Grass Sword,4
+Geronimo,Feline Friend No More,2
+Geronimo,Under The Water,0
+Geronimo,Snake Sneak Attack,-2
+Geronimo,Undo It All,3
+Flight 9,Yellow Tourist,6
+Flight 9,Medicine Bottle,3
+Flight 9,Spiky Ball,1
+Flight 9,Glowing Crest,-1
+Flight 9,Calculus,4
+Flight 9,Mystery Novel,2
+Flight 9,Grass Sword,0
+Flight 9,Feline Friend No More,-2
+Flight 9,Under The Water,3
+Flight 9,Snake Sneak Attack,1
+Flight 9,Undo It All,-1
+Yellow Tourist,Medicine Bottle,-1
+Yellow Tourist,Spiky Ball,4
+Yellow Tourist,Glowing Crest,2
+Yellow Tourist,Calculus,0
+Yellow Tourist,Mystery Novel,-2
+Yellow Tourist,Grass Sword,3
+Yellow Tourist,Feline Friend No More,1
+Yellow Tourist,Under The Water,-1
+Yellow Tourist,Snake Sneak Attack,4
+Yellow Tourist,Undo It All,2
+Medicine Bottle,Spiky Ball,0
+Medicine Bottle,Glowing Crest,-2
+Medicine Bottle,Calculus,3
+Medicine Bottle,Mystery Novel,1
+Medicine Bottle,Grass Sword,-1
+Medicine Bottle,Feline Friend No More,4
+Medicine Bottle,Under The Water,6
+Medicine Bottle,Snake Sneak Attack,0
+Medicine Bottle,Undo It All,-6
+Spiky Ball,Glowing Crest,1
+Spiky Ball,Calculus,-1
+Spiky Ball,Mystery Novel,4
+Spiky Ball,Grass Sword,2
+Spiky Ball,Feline Friend No More,0
+Spiky Ball,Under The Water,-2
+Spiky Ball,Snake Sneak Attack,5
+Spiky Ball,Undo It All,1
+Glowing Crest,Calculus,2
+Glowing Crest,Mystery Novel,0
+Glowing Crest,Grass Sword,-2
+Glowing Crest,Feline Friend No More,3
+Glowing Crest,Under The Water,1
+Glowing Crest,Snake Sneak Attack,-1
+Glowing Crest,Undo It All,8
+Calculus,Mystery Novel,6
+Calculus,Grass Sword,1
+Calculus,Feline Friend No More,-1
+Calculus,Under The Water,4
+Calculus,Snake Sneak Attack,2
+Calculus,Undo It All,0
+Mystery Novel,Grass Sword,4
+Mystery Novel,Feline Friend No More,2
+Mystery Novel,Under The Water,0
+Mystery Novel,Snake Sneak Attack,-2
+Mystery Novel,Undo It All,7
+Grass Sword,Feline Friend No More,-2
+Grass Sword,Under The Water,3
+Grass Sword,Snake Sneak Attack,7
+Grass Sword,Undo It All,-1
+Feline Friend No More,Under The Water,-1
+Feline Friend No More,Snake Sneak Attack,4
+Feline Friend No More,Undo It All,2
+Under The Water,Snake Sneak Attack,0
+Under The Water,Undo It All,-2
+Snake Sneak Attack,Undo It All,1
